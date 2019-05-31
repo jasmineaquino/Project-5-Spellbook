@@ -1,0 +1,28 @@
+h1 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 100px;
+    text-align:center;
+}
+
+ body{
+    background-color:PaleGreen;
+}
+.tinker{
+    display:flex;
+    justify-content: center;
+}
+
+.flying {display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-top:25px;
+  padding-bottom:25px;
+}
+#button { 
+        display:flex;
+    justify-content: center;
+}
+
+    
+    
